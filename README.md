@@ -1,3 +1,7 @@
+![Repo Size](https://img.shields.io/github/repo-size/Tiwaryy/GNNDetectUNSW)
+![Last Commit](https://img.shields.io/github/last-commit/Tiwaryy/GNNDetectUNSW)
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue)
+
 # GNNDetectUNSW
 Graph Neural Network-based anomaly detection model using the UNSW-NB15 dataset. This project constructs dynamic contextual graphs and leverages an enhanced Graph Autoencoder with Tuned Behavior-Driven Scoring (TBDS) to identify anomalous activities in IoT networks.
 

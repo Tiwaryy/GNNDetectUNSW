@@ -25,6 +25,7 @@ Pandas, NumPy, Matplotlib
 
 install via: **_pip install -r requirements.txt_**
 To run: **python main.py**
+📓 [Click here to view the full implementation notebook](./GNN_Anomaly_Detection.ipynb)
 
 STEPS INVOLVED:
 Preprocess the dataset
